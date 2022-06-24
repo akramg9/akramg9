@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohammed Akram Idrisi
-- 👀 I’m work .Net / MEAN Stack / .Net Core
+- 👀 I’m work .Net Fullstack / .Net Core
 - 📫 You can contact me @ akramg9@gmail.com
 
 <!---
